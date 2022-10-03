@@ -1,2 +1,2 @@
 # facerecognitionbrain
-A project from ZTM Complete Web Developer in 2021 Course. https://github.com/aneagoie/face-recognition-brain
+A project is Done from my owm purpose to test my own Skills in this field.
